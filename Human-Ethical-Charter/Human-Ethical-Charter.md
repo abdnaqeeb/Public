@@ -143,6 +143,6 @@ Under the following terms:
 For details, see: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 
 Official repository (with timestamps and version history):  
-👉 [Human-Ethical-Charter.md](https://github.com/abdnaqeeb/Personal/edit/main/Human-Ethical-Charter.md)
+👉 [Human-Ethical-Charter](https://github.com/abdnaqeeb/Public/blob/main/Human-Ethical-Charter/Human-Ethical-Charter.md)
 
 © 2025 The Human Ethical Charter Initiative. All rights reserved under CC-BY 4.0.
