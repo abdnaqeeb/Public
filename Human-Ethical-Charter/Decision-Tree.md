@@ -46,7 +46,7 @@ Under the following terms:
 For details, see: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 
 Official repository (with timestamps and version history):  
-👉 https://github.com/abdnaqeeb/Public/blob/main/Human-Ethical-Charter/Human-Ethical-Charter.md
+👉 https://github.com/abdnaqeeb/Public/blob/main/Human-Ethical-Charter/Decision-Tree.md
 
 © 2025 The Human Ethical Charter Initiative. All rights reserved under CC-BY 4.0.
 
