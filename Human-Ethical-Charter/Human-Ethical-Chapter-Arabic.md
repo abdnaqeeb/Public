@@ -114,6 +114,6 @@
 للمزيد من التفاصيل: [https://creativecommons.org/licenses/by/4.0/deed.ar](https://creativecommons.org/licenses/by/4.0/deed.ar)  
 
 المستودع الرسمي (مع الطوابع الزمنية وتاريخ الإصدارات):  
-👉 [https://github.com/abednaqeeb/Human-Ethical-Charter](https://github.com/abednaqeeb/Human-Ethical-Charter)  
+👉 https://github.com/abdnaqeeb/Public/blob/main/Human-Ethical-Charter/Human-Ethical-Chapter-Arabic.md  
 
 © 2025 مبادرة الميثاق الأخلاقي الإنساني. جميع الحقوق محفوظة وفق CC-BY 4.0.
