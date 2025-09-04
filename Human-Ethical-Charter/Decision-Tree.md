@@ -29,5 +29,24 @@ V -- No --> R4["Needs participatory review & periodic update (Art.10)"]
 X --> Bx{"Existential catastrophe + least-infringing, temporary, under oversight? (Art.9)"}
 Bx -- Yes --> R3["Exceptionally permissible with safeguards"]
 Bx -- No --> R1["Vice"]
+```
 
+---
+
+## Copyright & License
+This document is published under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format.  
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.  
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.  
+
+For details, see: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+
+Official repository (with timestamps and version history):  
+👉 https://github.com/abdnaqeeb/Public/blob/main/Human-Ethical-Charter/Human-Ethical-Charter.md
+
+© 2025 The Human Ethical Charter Initiative. All rights reserved under CC-BY 4.0.
 
